@@ -3,4 +3,5 @@
     <string name="jkt48">JKT48</string>
     <string name="icon_person">icon person</string>
     <string name="lihat_profile"><![CDATA[Lihat Profile ->]]></string>
+    <string name="gen">Gen %s</string>
 </resources>

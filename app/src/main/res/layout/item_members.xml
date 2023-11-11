@@ -21,12 +21,12 @@
             app:cardCornerRadius="5dp"
             >
             <ImageView
+                android:id="@+id/iv_photo_member"
                 android:adjustViewBounds="true"
                 android:scaleType="centerCrop"
                 android:layout_width="100dp"
                 android:layout_height="150dp"
-
-                android:src="@tools:sample/avatars"/>
+                tools:src="@tools:sample/avatars"/>
         </androidx.cardview.widget.CardView>
 
 
