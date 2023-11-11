@@ -6,8 +6,12 @@
         <item name="colorSecondary">@color/secondaryColor</item>
         <item name="colorOnSecondary">@color/primaryColor</item>
         <item name="android:statusBarColor">?attr/colorPrimary</item>
-    </style>
 
+        <item name="backgroundColor">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/poppinsregular</item>
+        <item name="android:textSize">12sp</item>
+    </style>
     <style name="Theme.JKT48App" parent="Base.Theme.JKT48App" />
 
 </resources>
