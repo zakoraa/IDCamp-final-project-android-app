@@ -2,4 +2,5 @@
     <string name="app_name">JKT48App</string>
     <string name="jkt48">JKT48</string>
     <string name="icon_person">icon person</string>
+    <string name="lihat_profile"><![CDATA[Lihat Profile ->]]></string>
 </resources>
