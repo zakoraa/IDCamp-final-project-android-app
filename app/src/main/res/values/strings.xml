@@ -13,4 +13,10 @@
     <string name="tanggal_lahir">Tanggal Lahir</string>
     <string name="gen_title">Gen</string>
     <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="back_from_my_profile">back from my profile</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_logo">My logo</string>
+    <string name="muhammad_rafli_silehu">Muhammad Rafli Silehu</string>
+    <string name="raflisilehu20_gmail_com">raflisilehu20@gmail.com</string>
+    <string name="github_zakoraa">Github : zakoraa</string>
 </resources>
