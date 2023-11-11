@@ -4,6 +4,7 @@
     <string name="icon_person">icon person</string>
     <string name="lihat_profile"><![CDATA[Lihat Profile ->]]></string>
     <string name="gen">Gen %s</string>
+    <string name="height">%scm</string>
     <string name="photo_member">photo member</string>
     <string name="back_from_member_profile_details">back from member profile details</string>
     <string name="member_jkt48">Member JKT48</string>

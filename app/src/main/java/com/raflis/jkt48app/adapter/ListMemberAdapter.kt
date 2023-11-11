@@ -3,6 +3,7 @@ package com.raflis.jkt48app.adapter
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
@@ -15,6 +16,17 @@ class ListMemberAdapter(private val listMember: List<Member>) : RecyclerView.Ada
         val tvName: TextView = itemView.findViewById(R.id.tv_members_name)
         val tvGen: TextView = itemView.findViewById(R.id.tv_gen)
         val ivProfilePicture: ImageView = itemView.findViewById(R.id.iv_photo_member)
+        val btnToDetailActivity: Button = itemView.findViewById(R.id.btn_to_detail_activity)
+    }
+
+    interface OnItemClickListener {
+        fun onItemClick(member: Member)
+    }
+
+    private var itemClickListener: OnItemClickListener? = null
+
+    fun setOnItemClickListener(listener: OnItemClickListener) {
+        this.itemClickListener = listener
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
@@ -40,7 +52,9 @@ class ListMemberAdapter(private val listMember: List<Member>) : RecyclerView.Ada
         Glide.with(holder.itemView.context)
             .load(profilePicture)
             .into(holder.ivProfilePicture)
-
+        holder.btnToDetailActivity.setOnClickListener {
+            itemClickListener?.onItemClick(listMember[position])
+        }
     }
 
 
