@@ -33,6 +33,7 @@ class ListMemberAdapter(private val listMember: List<Member>) : RecyclerView.Ada
         height,
         gen,
         profilePicture) = listMember[position]
+
         holder.tvName.text = name
         val genText = holder.itemView.context.getString(R.string.gen, gen.toString())
         holder.tvGen.text = genText
