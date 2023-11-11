@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         rvMembers.adapter = listMemberAdapter
 
         ivToMyProfile.setOnClickListener{
-            val intent : Intent = Intent(this@MainActivity, MyProfileActivity::class.java)
+            val intent = Intent(this@MainActivity, MyProfileActivity::class.java)
             startActivity(intent)
         }
 
