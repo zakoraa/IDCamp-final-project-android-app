@@ -5,8 +5,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
-import androidx.core.net.toUri
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
 import com.raflis.jkt48app.R
 import com.raflis.jkt48app.model.Member
 
@@ -36,7 +36,9 @@ class ListMemberAdapter(private val listMember: List<Member>) : RecyclerView.Ada
         holder.tvName.text = name
         val genText = holder.itemView.context.getString(R.string.gen, gen.toString())
         holder.tvGen.text = genText
-        holder.ivProfilePicture.setImageURI(profilePicture.toUri())
+        Glide.with(holder.itemView.context)
+            .load(profilePicture)
+            .into(holder.ivProfilePicture)
 
     }
 

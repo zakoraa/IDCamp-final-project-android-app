@@ -11,14 +11,14 @@ object MemberData {
             height = 160,
             gen = 9,
             profilePicture =
-            "https = //jkt48.com/profile/adzana_shaliha.jpg?v=20230116"
+            "https://jkt48.com/profile/adzana_shaliha.jpg?v=20230116"
         ),
         Member(
             name = "Amanda Sukma",
             dateOfBirth = "17 Desember 2004",
             height = 160,
             gen = 10,
-            profilePicture = "https = //jkt48.com/profile/amanda_sukma.jpg?v=20230530"
+            profilePicture = "https://jkt48.com/profile/amanda_sukma.jpg?v=20230530"
         ),
         Member(
             name = "Angelina Christy",
@@ -26,21 +26,21 @@ object MemberData {
             height = 163,
             gen = 7,
             profilePicture =
-            "https = //jkt48.com/profile/angelina_christy.jpg?v=20230116"
+            "https://jkt48.com/profile/angelina_christy.jpg?v=20230116"
         ),
         Member(
             name = "Aurellia",
             dateOfBirth = "29 Oktober 2002",
             height = 155,
             gen = 10,
-            profilePicture = "https = //jkt48.com/profile/aurellia.jpg?v=20230531"
+            profilePicture = "https://jkt48.com/profile/aurellia.jpg?v=20230531"
         ),
         Member(
             name = "Azizi Asadel",
             dateOfBirth = "16 Mei 2004",
             height = 162,
             gen = 7,
-            profilePicture = "https = //jkt48.com/profile/azizi_asadel.jpg?v=20230116"
+            profilePicture = "https://jkt48.com/profile/azizi_asadel.jpg?v=20230116"
         ),
         Member(
             name = "Callista Alifia",
@@ -48,7 +48,7 @@ object MemberData {
             height = 157,
             gen = 10,
             profilePicture =
-            "https = //jkt48.com/profile/callista_alifia.jpg?v=20230531"
+            "https://jkt48.com/profile/callista_alifia.jpg?v=20230531"
         ),
         Member(
             name = "Cornelia Vanisa",
@@ -56,7 +56,7 @@ object MemberData {
             height = 162,
             gen = 8,
             profilePicture =
-            "https = //jkt48.com/profile/cornelia_vanisa.jpg?v=20230116"
+            "https://jkt48.com/profile/cornelia_vanisa.jpg?v=20230116"
         ),
         Member(
             name = "Febriola Sinambela",
@@ -65,7 +65,7 @@ object MemberData {
             height = 154,
             gen = 7,
             profilePicture =
-            "https = //jkt48.com/profile/febriola_sinambela.jpg?v=20230116"
+            "https://jkt48.com/profile/febriola_sinambela.jpg?v=20230116"
         ),
         Member(
             name = "Feni Fitriyanti",
@@ -73,14 +73,14 @@ object MemberData {
             height = 162,
             gen = 3,
             profilePicture =
-            "https = //jkt48.com/profile/feni_fitriyanti.jpg?v=20230116"
+            "https://jkt48.com/profile/feni_fitriyanti.jpg?v=20230116"
         ),
         Member(
             name = "Fiony Alveria",
             dateOfBirth = "4 Februari 2002",
             height = 158,
             gen = 8,
-            profilePicture = "https = //jkt48.com/profile/fiony_alveria.jpg?v=20230116"
+            profilePicture = "https://jkt48.com/profile/fiony_alveria.jpg?v=20230116"
         ),
         Member(
             name = "Flora Shafiqa Riyadi",
@@ -88,7 +88,7 @@ object MemberData {
             bloodGroup = "B",
             height = 149,
             gen = 8,
-            profilePicture = "https = //jkt48.com/profile/flora_shafiq.jpg?v=20230116"
+            profilePicture = "https://jkt48.com/profile/flora_shafiq.jpg?v=20230116"
         ),
         Member(
             name = "Freya Jayawardana",
@@ -97,7 +97,7 @@ object MemberData {
             height = 154,
             gen = 7,
             profilePicture =
-            "https = //jkt48.com/profile/freya_jayawardana.jpg?v=20230116"
+            "https://jkt48.com/profile/freya_jayawardana.jpg?v=20230116"
         ),
         Member(
             name = "Gabriela Abigail",
@@ -106,7 +106,7 @@ object MemberData {
             height = 160,
             gen = 10,
             profilePicture =
-            "https = //jkt48.com/profile/gabriela_abigail.jpg?v=20230531"
+            "https://jkt48.com/profile/gabriela_abigail.jpg?v=20230531"
         ),
         Member(
             name = "Gita Sekar Andarini",
@@ -114,7 +114,7 @@ object MemberData {
             height = 165,
             gen = 6,
             profilePicture =
-            "https = //jkt48.com/profile/gita_sekar_andarini.jpg?v=20230116"
+            "https://jkt48.com/profile/gita_sekar_andarini.jpg?v=20230116"
         ),
         Member(
             name = "Helisma Putri",
@@ -122,7 +122,7 @@ object MemberData {
             bloodGroup = "A",
             height = 165,
             gen = 7,
-            profilePicture = "https = //jkt48.com/profile/helisma_putri.jpg?v=20230116"
+            profilePicture = "https://jkt48.com/profile/helisma_putri.jpg?v=20230116"
         ),
         Member(
             name = "Indah Cahya",
@@ -130,7 +130,7 @@ object MemberData {
             bloodGroup = "A",
             height = 165,
             gen = 9,
-            profilePicture = "https = //jkt48.com/profile/indah_cahya.jpg?v=20230116"
+            profilePicture = "https://jkt48.com/profile/indah_cahya.jpg?v=20230116"
         ),
         Member(
             name = "Indira Seruni",
@@ -138,7 +138,7 @@ object MemberData {
             bloodGroup = "A",
             height = 160,
             gen = 10,
-            profilePicture = "https = //jkt48.com/profile/indira_seruni.jpg?v=20230531"
+            profilePicture = "https://jkt48.com/profile/indira_seruni.jpg?v=20230531"
         ),
         Member(
             name = "Jessica Chandra",
@@ -146,14 +146,14 @@ object MemberData {
             height = 163,
             gen = 7,
             profilePicture =
-            "https = //jkt48.com/profile/jessica_chandra.jpg?v=20230116"
+            "https://jkt48.com/profile/jessica_chandra.jpg?v=20230116"
         ),
         Member(
             name = "Jesslyn Elly",
             dateOfBirth = "13 September 2001",
             height = 155,
             gen = 10,
-            profilePicture = "https = //jkt48.com/profile/jesslyn_elly.jpg?v=20230531"
+            profilePicture = "https://jkt48.com/profile/jesslyn_elly.jpg?v=20230531"
         ),
         Member(
             name = "Kathrina Irene",
@@ -162,7 +162,7 @@ object MemberData {
             height = 165,
             gen = 9,
             profilePicture =
-            "https = //jkt48.com/profile/kathrina_irene.jpg?v=20230116"
+            "https://jkt48.com/profile/kathrina_irene.jpg?v=20230116"
         ),
         Member(
             name = "Lulu Salsabila",
@@ -171,7 +171,7 @@ object MemberData {
             height = 157,
             gen = 8,
             profilePicture =
-            "https = //jkt48.com/profile/lulu_salsabila.jpg?v=20230116"
+            "https://jkt48.com/profile/lulu_salsabila.jpg?v=20230116"
         ),
         Member(
             name = "Marsha Lenathea",
@@ -179,7 +179,7 @@ object MemberData {
             height = 163,
             gen = 9,
             profilePicture =
-            "https = //jkt48.com/profile/marsha_lenathea.jpg?v=20230116"
+            "https://jkt48.com/profile/marsha_lenathea.jpg?v=20230116"
         ),
         Member(
             name = "Mutiara Azzahra",
@@ -188,7 +188,7 @@ object MemberData {
             height = 158,
             gen = 7,
             profilePicture =
-            "https = //jkt48.com/profile/mutiara_azzahra.jpg?v=20230116"
+            "https://jkt48.com/profile/mutiara_azzahra.jpg?v=20230116"
         ),
         Member(
             name = "Raisha Syifa",
@@ -196,7 +196,7 @@ object MemberData {
             bloodGroup = "AB",
             height = 163,
             gen = 10,
-            profilePicture = "https = //jkt48.com/profile/raisha_syifa.jpg?v=20230530"
+            profilePicture = "https://jkt48.com/profile/raisha_syifa.jpg?v=20230530"
         ),
         Member(
             name = "Reva Fidela",
@@ -204,7 +204,7 @@ object MemberData {
             bloodGroup = "A",
             height = 159,
             gen = 8,
-            profilePicture = "https = //jkt48.com/profile/reva_fidela.jpg?v=20230116"
+            profilePicture = "https://jkt48.com/profile/reva_fidela.jpg?v=20230116"
         ),
         Member(
             name = "Shani Indira Natio",
@@ -213,7 +213,7 @@ object MemberData {
             height = 167,
             gen = 3,
             profilePicture =
-            "https = //jkt48.com/profile/shani_indira_natio.jpg?v=20230116"
+            "https://jkt48.com/profile/shani_indira_natio.jpg?v=20230116"
         ),
         Member(
             name = "Shania Gracia",
@@ -221,7 +221,7 @@ object MemberData {
             bloodGroup = "A",
             height = 161,
             gen = 3,
-            profilePicture = "https = //jkt48.com/profile/shania_gracia.jpg?v=20230116"
+            profilePicture = "https://jkt48.com/profile/shania_gracia.jpg?v=20230116"
         ),
         Member(
             name = "Yessica Tamara",
@@ -230,7 +230,7 @@ object MemberData {
             height = 165,
             gen = 7,
             profilePicture =
-            "https = //jkt48.com/profile/yessica_tamara.jpg?v=20230116"
+            "https://jkt48.com/profile/yessica_tamara.jpg?v=20230116"
         ),
     )
 
